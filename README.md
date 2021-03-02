@@ -1,39 +1,39 @@
 # bipcoin-nicehash-bot
 [NiceHash](https://www.nicehash.com/?refby=88315) Order Updating bot for renting hashing power to mine BipCoin
 
-###This Script Updates Orders on NiceHash based on:
+## This Script Updates Orders on NiceHash based on:
 
 1. Total Network Hashrate and block reward, from mining pool
 2. Price of BIP on Cryptopia order book
 3. Lowest cost to buy hashing on Nicehash order book
 
-###Sign up for NiceHash with my affiliate link:
+## Sign up for NiceHash with my affiliate link:
 https://www.nicehash.com/?refby=88315
 
 Deposit BTC to your account. Get your API Id and Key to put in [nicehashbot.php](https://github.com/KittyCatTech/bipcoin-nicehash-bot/blob/master/nicehashbot.php) script.
 
-###Add mining pools: 
+## Add mining pools: 
 https://www.nicehash.com/index.jsp?p=managepools
 
 EU >> host: bip.ms-pool.net.ua port: 8888 username: \<BipCoin Address> password: x
 
 US >> host: pool.democats.org port: 45591 username: \<BipCoin Address> passoword: x
 
-###Place Orders
+## Place Orders
 https://www.nicehash.com/index.jsp?p=orders
 
 Select CryptoNight Algorithm
 
 Add one standard order for EU hashing sever and one order for US hasing sever
 
-###Automate
+## Automate
 Run script [nicehashbot.php](https://github.com/KittyCatTech/bipcoin-nicehash-bot/blob/master/nicehashbot.php) and schedule it to run every 10-15 Mins.
 
-###License:
+## License:
 
 [BipCot NoGov Software License](https://github.com/KittyCatTech/bipcoin-nicehash-bot/blob/master/LICENSE)
 
-###Donations
+## Donations
 
 If you found this software useful please donate and let me know you appriciate my work on [twitter](http://twitter.com/KittyCatTech) or [reddit](https://www.reddit.com/user/KittyCatTech).
 
